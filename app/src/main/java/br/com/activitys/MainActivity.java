@@ -1,7 +1,9 @@
-package jfreitas.com.br.smarthdroid;
+package br.com.activitys;
 
 import android.app.Activity;
 import android.os.Bundle;
+
+import jfreitas.com.br.smarthdroid.R;
 
 public class MainActivity extends Activity {
 
