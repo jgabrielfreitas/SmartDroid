@@ -1,4 +1,4 @@
-package jfreitas.com.br.smarthdroid;
+package jfreitas.com.br.smartdroid;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

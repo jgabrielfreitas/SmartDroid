@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SmarthDroid.iml" filepath="$PROJECT_DIR$/SmarthDroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmartDroid.iml" filepath="$PROJECT_DIR$/SmartDroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
